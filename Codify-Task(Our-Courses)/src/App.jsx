@@ -1,15 +1,16 @@
-function App() {
+import Footer from "./components/Footer";
+import Header from "./components/Header";
 
+function App() {
   return (
     <>
-      
-      <h1 className="text-center text-4xl bg-red-300">Vite + React</h1>
-      
-      <p>
-        Click on the Vite and React logos to learn more
-      </p>
+      <div>
+        <Header />
+        <h1>Body</h1>
+        <Footer />
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
