@@ -253,8 +253,68 @@
           "title": "C Programming Training",
           "desc":"Take your programming skills to the next level with C Programming Training Course in Mumbai...."
         }
+      ],
+      "Cloud Computing": [
+        {
+          "title": "DevOps Training",
+          "desc":"DevOps for Absolute Beginners: Azure Devops, Jenkins, Docker, Kubernetes, Terraform, Ansible – AWS, Azure & Google Cloud!...          "
+        },
+        {
+          "title": "AWS Solution Architect Training ",
+          "desc":"Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS) with official Certification...."
+        },
+        {
+          "title": "Microsoft Azure Training",
+          "desc":"Learn Microsoft Azure Training from Basics to Advanced...."
+        },
+        {
+          "title": "GCP Training",
+          "desc":"Learn GCP Training from Basics to Advanced..."
+        }
+      ],
+      "Graphic Designing": [
+        {
+          "title": "Graphic Design Training",
+          "desc":"Learn the techniques to create stunning designs, even if you’re a complete beginner with our Graphic Design Training Course....    "
+        },
+        {
+          "title": "Photoshop Training ",
+          "desc":"Design Like a Pro: Adobe Photoshop Training Course for Limitless Creativity...."
+        },
+        {
+          "title": "Adobe Illustrator Training ",
+          "desc":"The Ultimate Adobe Illustrator Mastery Training Course for Creative Design Enthusiasts!...         "
+        }
+      ],
+      "3D Software Architecture": [
+        {
+          "title": "AutoCAD Training",
+          "desc":"Learn AutoCAD from basic to advanced...."
+        },
+        {
+          "title": "V-Ray Training",
+          "desc":"Master V-Ray and create stunning interior renderings for your design projects..."          
+        },
+        {
+          "title": "Revit Training Course",
+          "desc":"Become a Certified Revit Professional with Our Hands-On Training..."
+        },
+        {
+          "title": "SketchUp Training ",
+          "desc":"Learn Sketchup from basic to Advanced...."
+        },
+        {
+          "title": "3Ds Max Training ",
+          "desc":"Discover the secrets of interior rendering with 3Ds Max...."
+        }
+      ],
+      "RPA Training": [
+        {
+          "title": " UiPath RPA Training ",
+          "desc":"Transform your career with our UiPath RPA Training..."
+        }
       ]
-      
+     
     }
   ]
 }
