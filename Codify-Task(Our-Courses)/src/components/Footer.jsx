@@ -3,9 +3,9 @@ import { logo, facebook, instagram, youtube, linkdin } from "../Images";
 const Footer = () => {
   return (
     <footer className="bg-[#000000] flex flex-wrap justify-center items-center sm:flex-col text-white py-28">
-      <div className="container mx-auto px-4 flex flex-wrap justify-between">
+      <div className="container mx-auto px-36 flex flex-wrap justify-between">
         <div className="w-full md:w-1/2 lg:w-1/4 mb-8 md:mb-0">
-          <img src={logo} alt="Logo" className="cursor-pointer h-[150px]" />
+          <img src={logo} alt="Logo" className="cursor-pointer w-40" />
           <p className="text-[20px] font-semibold text-[hsl(0,0%,50%)] text-start tracking-[2px] mt-4">
             Follow Us On :
           </p>

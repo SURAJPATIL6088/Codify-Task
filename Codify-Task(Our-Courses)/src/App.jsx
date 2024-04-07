@@ -1,12 +1,17 @@
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import Courses from "./components/Courses";
+import CoursesProvider from "./components/CoursesProvider";
+import Content from "./components/Content";
+import RightBottom from "./components/RightBottom";
 function App() {
   return (
     <main className="">
+      <CoursesProvider>
         <Header />
-        <Courses/>
+        <RightBottom />
+        <Content />
         <Footer />
+      </CoursesProvider>
     </main>
   );
 }

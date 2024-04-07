@@ -1,110 +1,260 @@
 {
-    "Courses":[
+  "Courses": [
+    {
+      "Full Stack Development": [
         {
-            "Full Stack Development":[
-              {
-                "title": "Python Full Stack Web Development Training..",
-                "desc": "Go from Beginner to Expert in Python Full Stack by building projects. The best investment for your Python Web.."
-              },
-              {
-                "title": "Java Full Stack Training Course",
-                "desc": "Learn how to build Full Stack web applications & websites with React and Java Spring Boot with this project.."
-              },
-              {
-                "title": "MERN Stack Web Development Training",
-                "desc": "Learn MERN Stack By Building Advanced Applications and Websites. Learn to build full-stack apps with real.."
-              },
-              {
-                "title": "MEAN Stack Web Development Training",
-                "desc": "Learn how to connect your Angular Frontend to a NodeJS, Express & MongoDB Backend by building real.."
-              },
-              {
-                "title": "DotNet Full Stack Web Development Training",
-                "desc": "Learn to create Full Stack Web Applications with ASP.NET, MVC, Core, Web API, Entity Framework, C# REST.."
-              },
-              {
-                "title": "PHP Full Stack Web Development Training",
-                "desc": "The Complete PHP Mastery from Frontend to Backend with our PHP Full Stack Training Course in India!..."
-              },
-              {
-                "title": "HTML CSS Training",
-                "desc": "Unlock the power of web development with our HTML CSS training course. You’ll master creatin.."
-              },
-              {
-                "title": "Bootstrap Training",
-                "desc": "Learn to customise and build modern websites from scratch using Bootstrap. Complete In-Depth Bootstrap Trainin.."
-              },
-              {
-                "title": "Javascript Training",
-                "desc": "The Complete Javascript Training Course From Beginner To Advanced Level..."
-              },
-              {
-                "title": "React JS Training",
-                "desc": "Master modern React from beginner to advanced! Dive in and learn React JS training course from scratch!.."
-              },
-              {
-                "title": "NodeJS Training",
-                "desc": "Learn Node.js by building real-world applications with NodeJS, Express, MongoDB.."
-              },
-              {
-                "title": "Angular Training..",
-                "desc": "Get job ready with Angular training course! Master the latest version of Angular and learn how to build and.."
-              },
-              {
-                "title": "Python Training",
-                "desc": "Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training.."
-              },
-              {
-                "title": "MySQL Training",
-                "desc": "Go from Beginner to Expert in Python Full Stack by building projects. The best investment for your Python Web.."
-              },
-              {
-                "title": "Python Full Stack Web Development Training..",
-                "desc": "Master SQL, Work With Complex Databases, Build Reports, and More! SQL that will get you hired – MySQL.."
-              },
-              {
-                "title": "Django Training",
-                "desc": "Learn Django from scratch, build an E-commerce store, web based PDF generators, web crawlers, APIs using.."
-              },
-              {
-                "title": "PHP Training",
-                "desc": "The Complete PHP-MySQL Course: Learn to Code in PHP. Every line of code explained in detail!.."
-              },
-              {
-                "title": "Dot Net Training",
-                "desc": "In-depth .NET programming course from basics to advanced. Focus on clean code, performance and.."
-              },
-              {
-                "title": "Magento Training",
-                "desc": "Learn Magento 2 development from scratch and get Magento 2 certified.."
-              },
-              {
-                "title": "WordPress Training",
-                "desc": "Become a WordPress expert – Build any dynamic WordPress website with custom post types .."
-              }
-            ],
-            "Mobile App Development":[
-              {
-                "title": "Android Training",
-                "desc": "Master Android App Development from ZERO to HERO. Work on Live Projects with our Android Training.."
-              },
-              {
-                "title": "iOS Training",
-                "desc": "The Complete iOS App Development Course From Beginner to Advanced IOS App Developer Training with.."
-              },
-              {
-                "title": "Flutter App Development Training",
-                "desc": "Learn Flutter, build iOS and Android Apps with a Single Codebase: The Ultimate Google’s Flutter Training.."
-              },
-              {
-                "title": "React Native Training",
-                "desc": "Master React Native to build hybrid iOS and Android Apps from basic to advanced level. Hands-on React.."
-              }
-            ],
-            "Data Science":[
-                
-            ]
+          "title": "Python Full Stack Web Development Training..",
+          "desc": "Go from Beginner to Expert in Python Full Stack by building projects. The best investment for your Python Web.."
+        },
+        {
+          "title": "Java Full Stack Training Course",
+          "desc": "Learn how to build Full Stack web applications & websites with React and Java Spring Boot with this project.."
+        },
+        {
+          "title": "MERN Stack Web Development Training",
+          "desc": "Learn MERN Stack By Building Advanced Applications and Websites. Learn to build full-stack apps with real.."
+        },
+        {
+          "title": "MEAN Stack Web Development Training",
+          "desc": "Learn how to connect your Angular Frontend to a NodeJS, Express & MongoDB Backend by building real.."
+        },
+        {
+          "title": "DotNet Full Stack Web Development Training",
+          "desc": "Learn to create Full Stack Web Applications with ASP.NET, MVC, Core, Web API, Entity Framework, C# REST.."
+        },
+        {
+          "title": "PHP Full Stack Web Development Training",
+          "desc": "The Complete PHP Mastery from Frontend to Backend with our PHP Full Stack Training Course in India!..."
+        },
+        {
+          "title": "HTML CSS Training",
+          "desc": "Unlock the power of web development with our HTML CSS training course. You’ll master creatin.."
+        },
+        {
+          "title": "Bootstrap Training",
+          "desc": "Learn to customise and build modern websites from scratch using Bootstrap. Complete In-Depth Bootstrap Trainin.."
+        },
+        {
+          "title": "Javascript Training",
+          "desc": "The Complete Javascript Training Course From Beginner To Advanced Level..."
+        },
+        {
+          "title": "React JS Training",
+          "desc": "Master modern React from beginner to advanced! Dive in and learn React JS training course from scratch!.."
+        },
+        {
+          "title": "NodeJS Training",
+          "desc": "Learn Node.js by building real-world applications with NodeJS, Express, MongoDB.."
+        },
+        {
+          "title": "Angular Training..",
+          "desc": "Get job ready with Angular training course! Master the latest version of Angular and learn how to build and.."
+        },
+        {
+          "title": "Python Training",
+          "desc": "Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training.."
+        },
+        {
+          "title": "MySQL Training",
+          "desc": "Go from Beginner to Expert in Python Full Stack by building projects. The best investment for your Python Web.."
+        },
+        {
+          "title": "Python Full Stack Web Development Training..",
+          "desc": "Master SQL, Work With Complex Databases, Build Reports, and More! SQL that will get you hired – MySQL.."
+        },
+        {
+          "title": "Django Training",
+          "desc": "Learn Django from scratch, build an E-commerce store, web based PDF generators, web crawlers, APIs using.."
+        },
+        {
+          "title": "PHP Training",
+          "desc": "The Complete PHP-MySQL Course: Learn to Code in PHP. Every line of code explained in detail!.."
+        },
+        {
+          "title": "Dot Net Training",
+          "desc": "In-depth .NET programming course from basics to advanced. Focus on clean code, performance and.."
+        },
+        {
+          "title": "Magento Training",
+          "desc": "Learn Magento 2 development from scratch and get Magento 2 certified.."
+        },
+        {
+          "title": "WordPress Training",
+          "desc": "Become a WordPress expert – Build any dynamic WordPress website with custom post types .."
         }
-    ]
+      ],
+      "Mobile App Development": [
+        {
+          "title": "Android Training",
+          "desc": "Master Android App Development from ZERO to HERO. Work on Live Projects with our Android Training.."
+        },
+        {
+          "title": "iOS Training",
+          "desc": "The Complete iOS App Development Course From Beginner to Advanced IOS App Developer Training with.."
+        },
+        {
+          "title": "Flutter App Development Training",
+          "desc": "Learn Flutter, build iOS and Android Apps with a Single Codebase: The Ultimate Google’s Flutter Training.."
+        },
+        {
+          "title": "React Native Training",
+          "desc": "Master React Native to build hybrid iOS and Android Apps from basic to advanced level. Hands-on React.."
+        }
+      ],
+      "Data Science": [
+        {
+          "title": "Data Science Training",
+          "desc": "Complete Data Science Training Course: Math, Python, Advanced Statistics, Machine Learning, NLP and.."
+        },
+        {
+          "title": "Python Training",
+          "desc": "Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training.."
+        },
+        {
+          "title": "MySQL Training",
+          "desc": "Master SQL, Work With Complex Databases, Build Reports, and More! SQL that will get you hired – MySQL.."
+        },
+        {
+          "title": "Machine Learning Training",
+          "desc": "Unlock the potential of AI: Mastering Machine Learning for Tomorrow’s Innovations..."
+        },
+        {
+          "title": "Deep Learning Training",
+          "desc": "The Ultimate Deep Learning Training Course in PyTorch using an experimental scientific approach with.."
+        },
+        {
+          "title": "R Programming Training",
+          "desc": "The Complete R programming Training Course for Data Analytics and Statistical Computing!.."
+        },
+        {
+          "title": "Tableau Training",
+          "desc": "Transform Raw Data into Powerful Insights with Step-by-Step Tableau Training for Beginners. Become a.."
+        },
+        {
+          "title": "Microsoft Power BI Training",
+          "desc": "The Complete and Comprehensive Course on Power BI : step by step with hands-on projects with Power BI.."
+        },
+        {
+          "title": "Advanced Excel Training",
+          "desc": "Master Advanced Excel and Solve Complex Problems to Save Time and Impress!..."
+        }
+      ],
+      "Data Analytics": [
+        {
+          "title": "Data Analytics Training",
+          "desc": "The Data Analytics Training Course We Wish We Had, When We First Started: Concepts, Tools, Roles, Processes, an.."
+        },
+        {
+          "title": "Business Analytics Training",
+          "desc": "Equip yourself with the skills needed to analyze and interpret complex data set...."
+        },
+        {
+          "title": "Python Training",
+          "desc": "Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training.."
+        },
+        {
+          "title": "MySQL Training",
+          "desc": "Master SQL, Work With Complex Databases, Build Reports, and More! SQL that will get you hired – MySQL..."
+        },
+        {
+          "title": "R Programming Training",
+          "desc": "The Complete R programming Training Course for Data Analytics and Statistical Computing!..."
+        },
+        {
+          "title": "Tableau Training",
+          "desc": "Transform Raw Data into Powerful Insights with Step-by-Step Tableau Training for Beginners. Become a.."
+        },
+        {
+          "title": "Microsoft Power BI Training",
+          "desc": "The Complete and Comprehensive Course on Power BI : step by step with hands-on projects with Power BI..."
+        },
+        {
+          "title": "Advanced Excel Training",
+          "desc": "Master Advanced Excel and Solve Complex Problems to Save Time and Impress!..."
+        },
+        {
+          "title": "Alteryx Training",
+          "desc": "The Complete Alteryx Training Course With Certification. Perform Data Analysis & Create Reports using.."
+        }
+      ],
+      "Software Testing": [
+        {
+          "title": "Software Testing Training",
+          "desc": "Get job ready with the best Software Testing Training Course in India. Get Guaranteed Jobs as QA or Automati.."
+        },
+        {
+          "title": "Selenium Automation Training",
+          "desc": "The Ultimate Selenium Automation Training Course with Java, TestNG and WebDrivers. Course designed for..."
+        },
+        {
+          "title": "Manual Testing Training",
+          "desc": "The Ultimate Manual Testing Training Course. Learn software testing and begin your career as a Quality.."
+        },
+        {
+          "title": "Performance Testing Training",
+          "desc": "Unlock the Secrets of High-Performance Apps with Our Performance Testing Training Course.."
+        },
+        {
+          "title": "Appium Training",
+          "desc": "Go from Beginner to Expert in Mobile automation testing Appium training course for IOS and Android mobile..."
+        }
+      ],
+      
+      "Digital Marketing": [
+        {
+          "title": "Digital Marketing Training",
+          "desc":"Master Digital Marketing Strategy, Performance Marketing, SMM, Funnels, Instagram Ads, Facebook Ads..."
+        }
+      ],
+      "UX-UI": [
+        {
+          "title": " UX-UI Training ",
+          "desc":" Everything you need to get started as a UX-UI Designer. Master UX and UI like a Pro and get Guaranteed..."
+        },
+        {
+          "title": " Photoshop Training",
+          "desc":" Design Like a Pro: Adobe Photoshop Training Course for Limitless Creativity...."
+        },
+        {
+          "title": " Adobe Illustrator Training ",
+          "desc":" The Ultimate Adobe Illustrator Mastery Training Course for Creative Design Enthusiasts!..."
+        }
+      ],
+      "Cyber Security": [
+        {
+          "title": " Ethical Hacking Training ",
+          "desc":"Protect yourself from hackers & cyberattacks. Learn Ethical Hacking Training Course and Cyber Security fro..."
+        }
+      ],
+      "Core Java & Advance Java": [
+        {
+          "title": " Core Java Training ",
+          "desc":"Deep Dive in Core Java programming. A Practical approach to learn Java. Become a Java Expert!..."
+        },
+        {
+          "title": " Advanced Java Training",
+          "desc":"Master the highly demanded frameworks of enterprise world: Spring Framework 5 with Spring..."
+        }
+      ],
+      "Python | C++ | DSA": [
+        {
+          "title": "C++ Training ",
+          "desc":"Code with Confidence: Expert C++ Training With Practical Projects for Software Development Success...."
+        },
+        {
+          "title": " Data Structures & Algorithm Training ",
+          "desc":"Learn, Analyse and Implement Data Structures & Algorithms using C++, Java or Python. Learn Recursion and..."
+        },
+        {
+          "title": "Python Training",
+          "desc":"Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training course journey!..."
+        },
+        {
+          "title": "C Programming Training",
+          "desc":"Take your programming skills to the next level with C Programming Training Course in Mumbai...."
+        }
+      ]
+      
+    }
+  ]
 }
-
