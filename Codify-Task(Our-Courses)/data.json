@@ -199,122 +199,121 @@
           "desc": "Go from Beginner to Expert in Mobile automation testing Appium training course for IOS and Android mobile..."
         }
       ],
-      
+
       "Digital Marketing": [
         {
           "title": "Digital Marketing Training",
-          "desc":"Master Digital Marketing Strategy, Performance Marketing, SMM, Funnels, Instagram Ads, Facebook Ads..."
+          "desc": "Master Digital Marketing Strategy, Performance Marketing, SMM, Funnels, Instagram Ads, Facebook Ads..."
         }
       ],
       "UX - UI": [
         {
           "title": " UX-UI Training ",
-          "desc":" Everything you need to get started as a UX-UI Designer. Master UX and UI like a Pro and get Guaranteed..."
+          "desc": " Everything you need to get started as a UX-UI Designer. Master UX and UI like a Pro and get Guaranteed..."
         },
         {
           "title": " Photoshop Training",
-          "desc":" Design Like a Pro: Adobe Photoshop Training Course for Limitless Creativity...."
+          "desc": " Design Like a Pro: Adobe Photoshop Training Course for Limitless Creativity...."
         },
         {
           "title": " Adobe Illustrator Training ",
-          "desc":" The Ultimate Adobe Illustrator Mastery Training Course for Creative Design Enthusiasts!..."
+          "desc": " The Ultimate Adobe Illustrator Mastery Training Course for Creative Design Enthusiasts!..."
         }
       ],
       "Cyber Security": [
         {
           "title": " Ethical Hacking Training ",
-          "desc":"Protect yourself from hackers & cyberattacks. Learn Ethical Hacking Training Course and Cyber Security fro..."
+          "desc": "Protect yourself from hackers & cyberattacks. Learn Ethical Hacking Training Course and Cyber Security fro..."
         }
       ],
       "Core Java & Advance Java": [
         {
           "title": " Core Java Training ",
-          "desc":"Deep Dive in Core Java programming. A Practical approach to learn Java. Become a Java Expert!..."
+          "desc": "Deep Dive in Core Java programming. A Practical approach to learn Java. Become a Java Expert!..."
         },
         {
           "title": " Advanced Java Training",
-          "desc":"Master the highly demanded frameworks of enterprise world: Spring Framework 5 with Spring..."
+          "desc": "Master the highly demanded frameworks of enterprise world: Spring Framework 5 with Spring..."
         }
       ],
       "Python | C++ | DSA": [
         {
           "title": "C++ Training ",
-          "desc":"Code with Confidence: Expert C++ Training With Practical Projects for Software Development Success...."
+          "desc": "Code with Confidence: Expert C++ Training With Practical Projects for Software Development Success...."
         },
         {
           "title": " Data Structures & Algorithm Training ",
-          "desc":"Learn, Analyse and Implement Data Structures & Algorithms using C++, Java or Python. Learn Recursion and..."
+          "desc": "Learn, Analyse and Implement Data Structures & Algorithms using C++, Java or Python. Learn Recursion and..."
         },
         {
           "title": "Python Training",
-          "desc":"Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training course journey!..."
+          "desc": "Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training course journey!..."
         },
         {
           "title": "C Programming Training",
-          "desc":"Take your programming skills to the next level with C Programming Training Course in Mumbai...."
+          "desc": "Take your programming skills to the next level with C Programming Training Course in Mumbai...."
         }
       ],
       "Cloud Computing": [
         {
           "title": "DevOps Training",
-          "desc":"DevOps for Absolute Beginners: Azure Devops, Jenkins, Docker, Kubernetes, Terraform, Ansible – AWS, Azure & Google Cloud!...          "
+          "desc": "DevOps for Absolute Beginners: Azure Devops, Jenkins, Docker, Kubernetes, Terraform, Ansible – AWS, Azure & Google Cloud!...          "
         },
         {
           "title": "AWS Solution Architect Training ",
-          "desc":"Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS) with official Certification...."
+          "desc": "Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS) with official Certification...."
         },
         {
           "title": "Microsoft Azure Training",
-          "desc":"Learn Microsoft Azure Training from Basics to Advanced...."
+          "desc": "Learn Microsoft Azure Training from Basics to Advanced...."
         },
         {
           "title": "GCP Training",
-          "desc":"Learn GCP Training from Basics to Advanced..."
+          "desc": "Learn GCP Training from Basics to Advanced..."
         }
       ],
       "Graphic Designing": [
         {
           "title": "Graphic Design Training",
-          "desc":"Learn the techniques to create stunning designs, even if you’re a complete beginner with our Graphic Design Training Course....    "
+          "desc": "Learn the techniques to create stunning designs, even if you’re a complete beginner with our Graphic Design Training Course....    "
         },
         {
           "title": "Photoshop Training ",
-          "desc":"Design Like a Pro: Adobe Photoshop Training Course for Limitless Creativity...."
+          "desc": "Design Like a Pro: Adobe Photoshop Training Course for Limitless Creativity...."
         },
         {
           "title": "Adobe Illustrator Training ",
-          "desc":"The Ultimate Adobe Illustrator Mastery Training Course for Creative Design Enthusiasts!...         "
+          "desc": "The Ultimate Adobe Illustrator Mastery Training Course for Creative Design Enthusiasts!...         "
         }
       ],
       "3D Software Architecture": [
         {
           "title": "AutoCAD Training",
-          "desc":"Learn AutoCAD from basic to advanced...."
+          "desc": "Learn AutoCAD from basic to advanced...."
         },
         {
           "title": "V-Ray Training",
-          "desc":"Master V-Ray and create stunning interior renderings for your design projects..."          
+          "desc": "Master V-Ray and create stunning interior renderings for your design projects..."
         },
         {
           "title": "Revit Training Course",
-          "desc":"Become a Certified Revit Professional with Our Hands-On Training..."
+          "desc": "Become a Certified Revit Professional with Our Hands-On Training..."
         },
         {
           "title": "SketchUp Training ",
-          "desc":"Learn Sketchup from basic to Advanced...."
+          "desc": "Learn Sketchup from basic to Advanced...."
         },
         {
           "title": "3Ds Max Training ",
-          "desc":"Discover the secrets of interior rendering with 3Ds Max...."
+          "desc": "Discover the secrets of interior rendering with 3Ds Max...."
         }
       ],
       "RPA Training": [
         {
           "title": " UiPath RPA Training ",
-          "desc":"Transform your career with our UiPath RPA Training..."
+          "desc": "Transform your career with our UiPath RPA Training..."
         }
       ]
-     
     }
   ]
 }

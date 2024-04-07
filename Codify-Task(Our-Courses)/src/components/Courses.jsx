@@ -3,15 +3,14 @@ import data from "../../data.json";
 import { CoursesList } from "./CoursesProvider";
 
 const Courses = () => {
-  const { course, setCourse } = useContext(CoursesList);
+  const { course } = useContext(CoursesList);
 
-  console.log(course, setCourse);
   return (
-    <div className="self-start">
+    <div className="self-start flex flex-col gap-8 w-[60%] py-3 h-screen overflow-y-scroll no-scrollbar">
       <div className="bg-yellow-400 p-8 text-2xl text-center tracking-wide">
         Confused which course to select, Explore from our courses below.
       </div>
-      <div className="font-bold text-2xl">{course}</div>
+      <div className="font-semibold text-2xl">{course}</div>
       <div className="grid grid-cols-2 gap-8 ">
         {data.Courses[0][course].map((course, index) => (
           <div
