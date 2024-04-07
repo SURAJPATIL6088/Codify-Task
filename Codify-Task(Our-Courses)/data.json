@@ -1,0 +1,110 @@
+{
+    "Courses":[
+        {
+            "Full Stack Development":[
+              {
+                "title": "Python Full Stack Web Development Training..",
+                "desc": "Go from Beginner to Expert in Python Full Stack by building projects. The best investment for your Python Web.."
+              },
+              {
+                "title": "Java Full Stack Training Course",
+                "desc": "Learn how to build Full Stack web applications & websites with React and Java Spring Boot with this project.."
+              },
+              {
+                "title": "MERN Stack Web Development Training",
+                "desc": "Learn MERN Stack By Building Advanced Applications and Websites. Learn to build full-stack apps with real.."
+              },
+              {
+                "title": "MEAN Stack Web Development Training",
+                "desc": "Learn how to connect your Angular Frontend to a NodeJS, Express & MongoDB Backend by building real.."
+              },
+              {
+                "title": "DotNet Full Stack Web Development Training",
+                "desc": "Learn to create Full Stack Web Applications with ASP.NET, MVC, Core, Web API, Entity Framework, C# REST.."
+              },
+              {
+                "title": "PHP Full Stack Web Development Training",
+                "desc": "The Complete PHP Mastery from Frontend to Backend with our PHP Full Stack Training Course in India!..."
+              },
+              {
+                "title": "HTML CSS Training",
+                "desc": "Unlock the power of web development with our HTML CSS training course. You’ll master creatin.."
+              },
+              {
+                "title": "Bootstrap Training",
+                "desc": "Learn to customise and build modern websites from scratch using Bootstrap. Complete In-Depth Bootstrap Trainin.."
+              },
+              {
+                "title": "Javascript Training",
+                "desc": "The Complete Javascript Training Course From Beginner To Advanced Level..."
+              },
+              {
+                "title": "React JS Training",
+                "desc": "Master modern React from beginner to advanced! Dive in and learn React JS training course from scratch!.."
+              },
+              {
+                "title": "NodeJS Training",
+                "desc": "Learn Node.js by building real-world applications with NodeJS, Express, MongoDB.."
+              },
+              {
+                "title": "Angular Training..",
+                "desc": "Get job ready with Angular training course! Master the latest version of Angular and learn how to build and.."
+              },
+              {
+                "title": "Python Training",
+                "desc": "Go from Beginner to Expert in Python by building 15+ projects. The best investment for your Python training.."
+              },
+              {
+                "title": "MySQL Training",
+                "desc": "Go from Beginner to Expert in Python Full Stack by building projects. The best investment for your Python Web.."
+              },
+              {
+                "title": "Python Full Stack Web Development Training..",
+                "desc": "Master SQL, Work With Complex Databases, Build Reports, and More! SQL that will get you hired – MySQL.."
+              },
+              {
+                "title": "Django Training",
+                "desc": "Learn Django from scratch, build an E-commerce store, web based PDF generators, web crawlers, APIs using.."
+              },
+              {
+                "title": "PHP Training",
+                "desc": "The Complete PHP-MySQL Course: Learn to Code in PHP. Every line of code explained in detail!.."
+              },
+              {
+                "title": "Dot Net Training",
+                "desc": "In-depth .NET programming course from basics to advanced. Focus on clean code, performance and.."
+              },
+              {
+                "title": "Magento Training",
+                "desc": "Learn Magento 2 development from scratch and get Magento 2 certified.."
+              },
+              {
+                "title": "WordPress Training",
+                "desc": "Become a WordPress expert – Build any dynamic WordPress website with custom post types .."
+              }
+            ],
+            "Mobile App Development":[
+              {
+                "title": "Android Training",
+                "desc": "Master Android App Development from ZERO to HERO. Work on Live Projects with our Android Training.."
+              },
+              {
+                "title": "iOS Training",
+                "desc": "The Complete iOS App Development Course From Beginner to Advanced IOS App Developer Training with.."
+              },
+              {
+                "title": "Flutter App Development Training",
+                "desc": "Learn Flutter, build iOS and Android Apps with a Single Codebase: The Ultimate Google’s Flutter Training.."
+              },
+              {
+                "title": "React Native Training",
+                "desc": "Master React Native to build hybrid iOS and Android Apps from basic to advanced level. Hands-on React.."
+              }
+            ],
+            "Data Science":[
+                
+            ]
+        }
+    ]
+}
+
