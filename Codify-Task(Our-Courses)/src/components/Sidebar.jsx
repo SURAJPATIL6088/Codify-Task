@@ -55,12 +55,10 @@ const Sidebar = () => {
   const handleCourseChange = (newCourse) => {
     setCourse(newCourse);
   };
+  
   return (
-    <div
-      className="border border-gray-300 rounded-lg mb-4"
-      style={{ backgroundColor: "#ffd3194d", width: "40%", top: "100px" }}
-    >
-      <ul className="flex flex-col gap-4">
+    <div className="border border-gray-300 rounded-lg mb-4 self-start">
+      <ul className="flex flex-col gap-4 bg-[#fff2ba] p-4">
         {menuItems.map((item) => (
           <button
             key={item.id}
@@ -68,9 +66,7 @@ const Sidebar = () => {
             onClick={() => handleCourseChange(item.text)}
           >
             {item.icon}
-            <span className="text-gray-700 font-medium hover:text-black">
-              {item.text}
-            </span>
+            <span className="text-gray-700 hover:text-black">{item.text}</span>
           </button>
         ))}
       </ul>

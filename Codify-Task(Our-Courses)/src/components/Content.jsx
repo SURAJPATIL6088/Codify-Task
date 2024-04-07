@@ -3,7 +3,7 @@ import Sidebar from "./Sidebar";
 
 const Content = () => {
   return (
-    <div className="flex flex-row gap-4 justify-center w-full pt-20">
+    <div className="flex flex-row gap-8 justify-center items-center w-full pt-20">
       <Sidebar />
       <Courses />
     </div>
