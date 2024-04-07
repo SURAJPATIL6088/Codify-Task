@@ -1,12 +1,12 @@
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-
+import Courses from "./components/Courses";
 function App() {
   return (
     <>
       <div>
         <Header />
-        <h1>Body</h1>
+        <Courses/>
         <Footer />
       </div>
     </>
