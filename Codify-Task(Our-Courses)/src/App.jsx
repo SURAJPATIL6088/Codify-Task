@@ -3,13 +3,11 @@ import Header from "./components/Header";
 import Courses from "./components/Courses";
 function App() {
   return (
-    <>
-      <div>
+    <main className="">
         <Header />
         <Courses/>
         <Footer />
-      </div>
-    </>
+    </main>
   );
 }
 

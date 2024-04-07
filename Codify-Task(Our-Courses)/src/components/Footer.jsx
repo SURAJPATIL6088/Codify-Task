@@ -1,11 +1,9 @@
-import React from "react";
 import { logo, facebook, instagram, youtube, linkdin } from "../Images";
 
 const Footer = () => {
   return (
     <footer className="bg-[#000000] flex flex-wrap justify-center items-center sm:flex-col text-white py-28">
       <div className="container mx-auto px-4 flex flex-wrap justify-between">
-        
         <div className="w-full md:w-1/2 lg:w-1/4 mb-8 md:mb-0">
           <img src={logo} alt="Logo" className="cursor-pointer h-[150px]" />
           <p className="text-[20px] font-semibold text-[hsl(0,0%,50%)] text-start tracking-[2px] mt-4">
@@ -13,14 +11,29 @@ const Footer = () => {
           </p>
           <hr className="w-3/4 text-[#212529]"></hr>
           <div className="cursor-pointer flex items-start gap-8 p-3 flex-wrap">
-            <img src={facebook} alt="facebookLogo" className="hover:scale-110 mt-2 h-auto" />
-            <img src={youtube} alt="youtubeLogo" className="hover:scale-110 mt-2 h-auto" />
-            <img src={instagram} alt="instagramLogo" className="hover:scale-110 mt-2 h-auto" />
-            <img src={linkdin} alt="linkdinLogo" className="hover:scale-110 mt-2 h-auto" />
+            <img
+              src={facebook}
+              alt="facebookLogo"
+              className="hover:scale-110 mt-2 h-auto"
+            />
+            <img
+              src={youtube}
+              alt="youtubeLogo"
+              className="hover:scale-110 mt-2 h-auto"
+            />
+            <img
+              src={instagram}
+              alt="instagramLogo"
+              className="hover:scale-110 mt-2 h-auto"
+            />
+            <img
+              src={linkdin}
+              alt="linkdinLogo"
+              className="hover:scale-110 mt-2 h-auto"
+            />
           </div>
         </div>
 
-        
         <div className="w-full md:w-1/2 lg:w-1/4 mb-8 md:mb-0">
           <h3 className="font-sans text-start text-3xl text-[#ffd319] bg-[#000000] tracking-[3px] font-bold mb-2">
             Menu
