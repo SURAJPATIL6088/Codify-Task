@@ -55,19 +55,30 @@ const Sidebar = () => {
   const handleCourseChange = (newCourse) => {
     setCourse(newCourse);
   };
-  
+
   return (
-    <div className="border border-gray-300 rounded-lg mb-4 self-start">
-      <ul className="flex flex-col gap-4 bg-[#fff2ba] p-4">
+    <div className="border border-gray-300 rounded-lg mb-4 self-start sticky select-none">
+      <ul className="flex flex-col gap-4 bg-[#fff2ba] p-4 ">
         {menuItems.map((item) => (
-          <button
-            key={item.id}
-            className="flex items-center p-2 rounded-md gap-3"
-            onClick={() => handleCourseChange(item.text)}
-          >
-            {item.icon}
-            <span className="text-gray-700 hover:text-black">{item.text}</span>
-          </button>
+          <div key={item.id}>
+            <input
+              type="radio"
+              className="hidden"
+              name="options"
+              value={item.text}
+              checked={course === item.text}
+            />
+            <label
+              htmlFor={item.id}
+              className={`flex items-center p-2 rounded-md gap-3 cursor-pointer ${
+                course === item.text ? "bg-black text-white" : ""
+              }`}
+              onClick={() => handleCourseChange(item.text)}
+            >
+              {item.icon}
+              <span className="">{item.text}</span>
+            </label>
+          </div>
         ))}
       </ul>
     </div>
